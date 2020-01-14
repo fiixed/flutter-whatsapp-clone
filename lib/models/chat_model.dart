@@ -11,6 +11,8 @@ class ChatModel {
     this.avatarUrl,
   });
 
+}
+
   List<ChatModel> dummyData = [
     ChatModel(
         name: "Pawan Kumar",
@@ -49,4 +51,4 @@ class ChatModel {
         avatarUrl:
             "http://www.usanetwork.com/sites/usanetwork/files/styles/629x720/public/suits_cast_harvey.jpg?itok=fpTOeeBb"),
   ];
-}
+
